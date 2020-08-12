@@ -3,7 +3,15 @@
 ### EC 414 Introduction to Machine Learning at BU
 #####  All assignments completed in Matlab
 
-### HW3
+### HW3 - Nearest Neighbor Classification
 
+### HW4 - K-means CLustering
 
-### HW4
+### HW5 - LDA
+
+### HW6 - PCA
+
+### HW7 - Subgradient Descent Algorithm
+
+### HW8 - Mult-Class NN Classification
+
