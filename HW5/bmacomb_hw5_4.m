@@ -1,5 +1,3 @@
-% Brian Macomber - U25993688
-
 % HOW TO RUN
 %   since each part uses data from the part before, it can be run section
 %   by section (one after another), or run all at once

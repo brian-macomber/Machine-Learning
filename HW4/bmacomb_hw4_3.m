@@ -1,4 +1,3 @@
-% Brian Macomber - U25993688
 % EC414 - HW4 - question 3
 
 

@@ -1,4 +1,3 @@
-% Brian Macomber - U25993688
 % HW7 - 7.3
 %% load in dataset
 clear;clc;

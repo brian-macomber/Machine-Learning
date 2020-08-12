@@ -1,7 +1,6 @@
 % EC 414 Introduction to Machine Learning
 % Spring semester, 2020
 % Homework 3
-% by Brian Macomber - U25993688
 %
 % Problem 4.3 Nearest Neighbor Classifier
 % a), b), c), and d)

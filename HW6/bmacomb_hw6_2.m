@@ -1,5 +1,4 @@
 function [lambda5, k_] = skeleton_hw6_2()
-%% Q6.2  Brian Macomber - U25993688
 %% Load AT&T Cambridge, Face images data set
     img_size = [112,92];   % image size (rows,columns)
     % Load the ATT Face data set using load_faces()

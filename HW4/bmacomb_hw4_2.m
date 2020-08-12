@@ -1,5 +1,5 @@
 % EC 414 - HW 4 - Spring 2020
-% Brian Macomber - U25993688
+
 % K-Means starter code
 
 % ****HOW TO RUN CODE*****

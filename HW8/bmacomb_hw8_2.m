@@ -1,4 +1,3 @@
-% Brian Macomber - U25993688
 % 8.2
 
 %% load in dataset
