@@ -13,5 +13,5 @@
 
 ### HW7 - Subgradient Descent Algorithm
 
-### HW8 - Mult-Class NN Classification
+### HW8 - Multi-Class NN Classification
 
